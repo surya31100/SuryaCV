@@ -1,0 +1,50 @@
+body {
+  background-color:#000000;
+  margin: 0;
+  font-size: 20px;
+  color: white;
+}
+hr {
+  border-style: dotted none none;
+  border-color: lightgrey;
+  border-width: 8px;
+  width: 5%;
+}
+h1 {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 50px;
+  color: yellow;
+  text-shadow: 2px 2px #000000;
+}
+h3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: red;
+}
+div{
+  background-color: lightblue;
+  margin: 0;
+  height: 750px;
+}
+.top{
+  width: 200px;
+  height: 100px;
+  margin: 0;
+  position: absolute;
+  left: 80px;
+}
+.bottom{
+  width: 200px;
+  height: 100px;
+  margin: 0;
+  position: absolute;
+  right: 100px;
+  top: 200px;
+}
+.middle{
+  width: 200px;
+  height: 100px;
+  margin: 0;
+  position: absolute;
+  left: 450px;
+  top: 475px;
+}
